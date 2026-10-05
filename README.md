@@ -26,7 +26,7 @@
 ### 🚀 Key Projects
 
 #### 🧬 Bio & Healthcare AI
-- **[alphafold-drug-platform](#)** — AlphaFold 모델 기반 신약 개발 및 단백질 구조 분석 플랫폼
+- **[alphafold-drug-platform](alphafold-drug-platform)** — AlphaFold 모델 기반 신약 개발 및 단백질 구조 분석 플랫폼
 - **[Ctd2Doc](#)** — CTD 문서 자동화를 위한 Self-Improving 파이프라인 프레임워크
 - **[MedAutoRAG](#)** — 의료 및 제약 분야 데이터 맞춤형 RAG 검색 시스템
 - **[PMDA-Data](#)** — 일본 PMDA 의약품 및 添付文書 데이터 처리 시스템
